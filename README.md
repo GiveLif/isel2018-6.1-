@@ -1,1 +1,4 @@
-# isel2018-6.1-
+Hecho por:
+Pablo Ramos Izquierdo
+y
+David Gil Lozano
